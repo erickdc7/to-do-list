@@ -5,7 +5,7 @@ import './todoApp.css'
 export default function TodoApp() {
     const [title, setTitle] = useState("");
     const [todos, setTodos] = useState([]);
-    const [editItem, setEditItem] = useState(null);
+    /* const [editItem, setEditItem] = useState(null); */
 
     function handleInputChange(e) {
         setTitle(e.target.value);

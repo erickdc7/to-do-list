@@ -66,3 +66,13 @@
   color: white;
   padding: 10px 20px;
 }
+
+@media screen and (max-width: 550px) {
+  .todoContainer {
+    width: 100%;
+  }
+
+  .todoTitle {
+    font-size: 1rem;
+  }
+}
