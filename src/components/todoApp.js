@@ -55,6 +55,7 @@ export default function TodoApp() {
                     onChange={handleInputChange}
                     value={title}
                     className="todoInput"
+                    placeholder="Write things to do..."
                 />
                 <input
                     value="Create todo"
