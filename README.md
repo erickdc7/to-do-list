@@ -8,4 +8,4 @@ This web page was made with the following technologies:
 - JavaScript
 - React
 
-![preview](src/assets/preview-home.jpg)
+![preview](public/preview.jpeg)
